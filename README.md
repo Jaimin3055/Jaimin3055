@@ -19,7 +19,7 @@ I am passionate about building immersive 3D gameplay experiences, game mechanics
 
 | | **Game Project** | **Engine / Tech** | **Type / Event** | **Status / Link** |
 | :--- | :--- | :--- | :--- |
-| **Game Name Here** | Unity / C# | 🏆 A Lil Summer Game Jam Entry | [Play on Itch.io](https://jaimin3055p.itch.io) |
+| **Ice Cream Boy** | Unity / C# | 🏆 A Lil Summer Game Jam Entry | [Play on Itch.io](https://jaimin3055p.itch.io) |
 
 ---
 
