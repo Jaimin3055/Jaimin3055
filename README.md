@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm Jaimin Morabiya 👋 
+### 🎮 Aspiring Game Developer & Computer Science Student
 
-<!--
-**Jaimin3055/Jaimin3055** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Open to Work](https://img.shields.io/badge/Status-Open%20for%20Game%20Dev%20Internships-brightgreen?style=for-the-badge)
 
-Here are some ideas to get you started:
+I am passionate about building immersive 3D gameplay experiences, game mechanics, and shaders using modern game engines.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Tools
+- **Languages:** `C++`, `C#`, `Java`, `SQL`
+- **Game Engines:** `Unity`, `Unreal Engine`
+- **Graphics & APIs:** `DirectX`, `OpenGL`
+- **Version Control:** `Git`, `GitHub`
+
+---
+
+### 🚀 Featured Game Projects
+*(Apne projects ke links aur details yahan replace karein)*
+
+| Game Project | Engine / Tech | Status / Link |
+| :--- | :--- | :--- |
+| **Project 1 Name** | Unity / C# | [Play on Itch.io](https://jaimin3055p.itch.io) |
+| **Project 2 Name** | Unreal / C++ | [Source Code](https://github.com/Jaimin3055) |
+
+---
+
+### 🌐 Connect With Me
+[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://jaimin3055p.itch.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaimin-morabiya-4a515828b)
+
+---
+
+> 💡 *Building virtual worlds, one frame at a time.*
