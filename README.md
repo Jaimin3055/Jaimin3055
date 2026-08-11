@@ -16,12 +16,10 @@ I am passionate about building immersive 3D gameplay experiences, game mechanics
 ---
 
 ### 🚀 Featured Game Projects
-*(Apne projects ke links aur details yahan replace karein)*
 
-| Game Project | Engine / Tech | Status / Link |
-| :--- | :--- | :--- |
-| **Project 1 Name** | Unity / C# | [Play on Itch.io](https://jaimin3055p.itch.io) |
-| **Project 2 Name** | Unreal / C++ | [Source Code](https://github.com/Jaimin3055) |
+| | **Game Project** | **Engine / Tech** | **Type / Event** | **Status / Link** |
+| :--- | :--- | :--- | :--- |
+| **Game Name Here** | Unity / C# | 🏆 A Lil Summer Game Jam Entry | [Play on Itch.io](https://jaimin3055p.itch.io) |
 
 ---
 
