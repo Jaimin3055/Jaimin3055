@@ -19,7 +19,7 @@ I am passionate about building immersive 3D gameplay experiences, game mechanics
 
 | Game Project | Engine / Tech | Category / Event | Status / Link |
 | :--- | :--- | :--- | :--- |
-| *the Island* | Unity / c# | Official 2026 Unity Game Jam |  [Play on Itch.io](https://jaimin3055p.itch.io) \| [Source Code](https://github.com/Jaimin3055/) |
+| *the Island* | Unity / c# | Official 2026 Unity Game Jam |  [Play on Itch.io](https://jaimin3055p.itch.io) \| [Source Code](https://github.com/Jaimin3055/TheIsland) |
 | *Ice Cream Boy* | Unity / C# | 🏆 A Lil Summer Game Jam Entry | [Play on Itch.io](https://jaimin3055p.itch.io) \| [Source Code](https://github.com/Jaimin3055/Ice-Cream-Boy) |
 | **FPS Project (WIP)** | Unity / C# | 🛠️ Working Title | 🚧 In Development \| [Source Code](https://github.com/Jaimin3055/Unity_FPS_Project) |
 
